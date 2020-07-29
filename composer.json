@@ -13,6 +13,7 @@
         "pear/pear_exception": "1.0-beta1",
         "pear/log": "~1.12"
     },
+    "minimum-stability": "stable",
     "autoload": {
         "files": [ "ActiveRecord.php" ]
     }
